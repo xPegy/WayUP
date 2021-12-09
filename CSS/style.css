@@ -1,0 +1,35 @@
+body {
+    font-family: 'Satisfy', cursive;
+}
+.first_title {
+    color: red;
+}
+.blue_text {
+    background-color: blue;
+    width: 125px;
+}
+.white_text {
+    color: white;
+}
+.content_down {
+    padding-top: 100px;
+}
+.red_text {
+    color: red;
+}
+.two_title {
+    background-color: green;
+}
+.three_title {
+    background-color: green;
+    padding: 70px 0 70px 50px;
+}
+.central_text {
+    color: white;
+}
+.title_num {
+    padding-left: 100px;
+}
+.black_block {
+    border: 1px solid black;
+}
